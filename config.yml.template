@@ -1,0 +1,5 @@
+---
+## all of the following keys are required to have valid values
+LIVEDNS_API_KEY:
+DOMAIN:
+RECORD:
